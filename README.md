@@ -21,3 +21,13 @@ Get access to our hack script that unlocks the Bitcoin unconfirmed transaction o
 2. No pain no gain, the script costs 70$. Its an investment that has high returns.
 3. The maximum amount you can hack is 36.302 BTC. Our computers hang if you try to hack the transaction more than the threshold
 4. If you get arrested, we don't know you and you don't know us.
+
+# How it works
+1. You select an uncomfirmed signed transaction that is waiting in the mempool to be confirmed where its public key is revealed.
+2. Our high end computers try to hack the Elliptic Curve Digital Signing Algorithm (ECDSA), if they are successful, they recover the sender's private key.
+3. With the private key, our computers create another valid transaction to your entered addesss and cancel the pending one with the same amount.
+4. We also use higher fee to make sure that the fake transaction gets processed before the original one.
+5. You watch the Money come in.
+
+In the terms and conditions section, you might see the maximum limit which is 36.302 BTC. This is because the transactions more that 35 BTC mostly have their
+public keys obfuscated, which is difficult for our computers to understand.
