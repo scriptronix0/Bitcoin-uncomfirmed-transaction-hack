@@ -21,6 +21,7 @@ Get access to our hack script that unlocks the Bitcoin unconfirmed transaction o
 2. No pain no gain, the script costs 70$. Its an investment that has high returns.
 3. The maximum amount you can hack is 36.302 BTC. Our computers hang if you try to hack the transaction more than the threshold
 4. If you get arrested, we don't know you and you don't know us.
+5. This content does not support any fraudulent act. The script is used when you accidently transfer your BTC to another address and you want to send them to correct address
 
 # How it works
 1. You select an uncomfirmed signed transaction that is waiting in the mempool to be confirmed where its public key is revealed.
